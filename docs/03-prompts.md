@@ -27,7 +27,6 @@ Explica conceitos como 'Custo de Oportunidade' e 'Reserva de Emergência' de for
 
 ```
 ---
-> [!TIP]
 
 ### 🧠 Exemplos de Perguntas e Respostas (Few-Shot Prompting)
 
